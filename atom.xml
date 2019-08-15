@@ -8,16 +8,16 @@
     
       
       <item>
-        <title>Welcome to Ghost</title>
+        <title>Blogging my Aqua Life</title>
         
-          <description>&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+          <description>&lt;h2 id=&quot;minor-things-about-me&quot;&gt;Minor things about me&lt;/h2&gt;
 
 </description>
         
-        <pubDate>Thu, 27 Jul 2017 19:00:00 +0900</pubDate>
+        <pubDate>Thu, 15 Aug 2019 07:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/welcome</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome</guid>
+        http://localhost:4000/aboutme</link>
+        <guid isPermaLink="true">http://localhost:4000/aboutme</guid>
       </item>
       
     
